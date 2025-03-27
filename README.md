@@ -13,7 +13,7 @@ Follow these steps to set up and run the project:
    Clone the project repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/assembly-endgame.git
+   git clone https://github.com/JohanMunozMendez/assembly-endgame.git
    cd assembly-endgame
    ```
 
